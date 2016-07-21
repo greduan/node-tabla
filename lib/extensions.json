@@ -1,0 +1,9 @@
+{
+  "extensions": {
+    ".js.cs": {
+      "command": "coffee",
+      "options": ["-s", "-p"]
+    },
+    ".js.coffee": ".js.cs"
+  }
+}
