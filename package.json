@@ -12,5 +12,8 @@
   "devDependencies": {
     "tap-dot": "1.0.5",
     "teenytest": "5.0.2"
+  },
+  "bin": {
+    "tabla": "bin/tabla.js"
   }
 }
