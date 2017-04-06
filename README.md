@@ -1,5 +1,7 @@
 # Tabla
 
+**Note that this project never got anywhere.  I keep it here for archival purposes, and to document the idea, but implementation was never done.  Essentially, it was abandoned soon after it was thought up.**
+
 Tabla is a tool inspired by [Tarima][tarima], made by my friend
 [pateketrueke][pateketrueke].
 
